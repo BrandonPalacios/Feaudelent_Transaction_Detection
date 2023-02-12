@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/124618854/218286355-2ecf0b68-64a3-4de8-a161-23c3e7b60b49.png)
 
-# Feaudelent Transaction Detection
+# Fraudelent Transaction Detection
 
 Recognizing fraudulent transactions from legitimate ones has been a challenge for businesses, it has become a daily activity for all companies, especially the technological ones.
 
