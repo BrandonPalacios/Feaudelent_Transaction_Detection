@@ -9,6 +9,6 @@ Recognizing fraudulent transactions from legitimate ones has been a challenge fo
 - **Improve customer satisfaction.** You secure your customers' personal information.
 - **Prevent unauthorized transactions.**
 
-This analysis' target is to develop an efficient model to predict if a transaction is probable to be fraudulent unsing the algorithm Support Vector Machine & KNN.
+This analysis' target is to develop an efficient model to predict if a transaction is probable to be fraudulent unsing a Decision Tree Algorithm.
 
 The dataset consists of 1.75 million transactions made by considering simulated users through various terminals throughout the period from January 2023 to June 2023.
